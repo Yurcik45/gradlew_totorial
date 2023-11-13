@@ -5,7 +5,7 @@ package com.gradle.gradle_tutorial;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello World Again!";
     }
 
     public static void main(String[] args) {
